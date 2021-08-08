@@ -7,20 +7,13 @@ html, body {
   body {
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
+    text-align: center;
   }
 
   .center {
     margin-left: auto;
     margin-right: auto;
     display: block
-}
-
-h3 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 21px;
-    font-weight: lighter;
-    color:gray;
-    text-align: center;
 }
 
   h1 {
@@ -39,6 +32,14 @@ h3 {
     color: white;
   }
 
+  h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    color:gray;
+    text-align: center;
+}
+
   p {
       text-align: center;
       color: aquamarine;
@@ -47,8 +48,4 @@ h3 {
   #footer {
       text-align: right;
       color: gray;
-  }
-  h2.Brushes{
-    background-color: lightgreen; 
-    color: white;
   }
